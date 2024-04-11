@@ -25,6 +25,6 @@ int main() {
     cout << b3 << endl; // 输出50
 
     system("pause");
-    
+     
     return 0;
 }
